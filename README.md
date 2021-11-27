@@ -4,4 +4,4 @@
 
 ### Code Link: https://github.com/githubkaium/panda-ecommerce/tree/main
 
-### Live Page Link: https://githubkaium.github.io/panda-ecommerce/index.html
+### Live Site Link: https://githubkaium.github.io/panda-ecommerce/index.html
