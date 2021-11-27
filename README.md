@@ -1,5 +1,7 @@
 # Project Name: Panda E-Commerce
 
-* A multiproduct E-Commerce Front Page Design. 
+* A multiproduct E-Commerce Front Page Design.
 
-## Live Page Link:https://githubkaium.github.io/panda-ecommerce/index.html
+### Code Link: https://github.com/githubkaium/panda-ecommerce/tree/main
+
+### Live Page Link: https://githubkaium.github.io/panda-ecommerce/index.html
